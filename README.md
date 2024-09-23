@@ -1,6 +1,5 @@
 ## Samuel Silva Gomes 
 [![Static Badge](https://img.shields.io/badge/%7C%20silvagomes881%40gmail.com-black?style=flat-square&logo=gmail)](mailto:silvagomes881@gmail.com)
-![Static Badge](https://img.shields.io/badge/%7C%20%40samuelsilvg-black?style=flat-square&logo=x)
 ![Static Badge](https://img.shields.io/badge/%7C%20%40samuelsilvg-black?style=flat-square&logo=instagram)
 
  ### Sobre mim:

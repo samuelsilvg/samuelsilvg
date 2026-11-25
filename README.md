@@ -1,5 +1,5 @@
 ```
-s a m u e l   s i l v a   g o m e s  | @ samuelsilvg 
+S A M U E L   S I L V A   G O M E S  |  @ samuelsilvg 
 ```
 [![Static Badge](https://img.shields.io/badge/%7C%20silvagomes881%40gmail.com-black?style=flat-square&logo=gmail)](mailto:silvagomes881@gmail.com)
 ![Static Badge](https://img.shields.io/badge/%7C%20%40samuelsilvg-black?style=flat-square&logo=instagram)
